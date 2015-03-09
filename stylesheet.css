@@ -1,0 +1,39 @@
+body {
+    background-color: #AABFE0;
+}
+
+.Name {
+	color:black;
+	font-family:sans;
+	font-size:32px;
+
+                  }
+.Addy {
+    color:black;
+    font-family:Sans;
+    font-size:17px;
+    padding-right: 135px;
+    padding-left: 135px;
+}
+.Qual {color:black;
+       font-family:sans;
+       font-size:22px;
+       text-decoration: underline;
+   }
+.Under {
+	color:black;
+    font-family:Sans;
+    font-size:17px;
+    text-decoration: underline;
+    font-weight: bold;
+    padding-right: 135px;
+    padding-left: 135px;
+}
+.Vol {
+  color:black;
+    font-family:Sans;
+    font-size:17px;
+    padding-right: 135px;
+    padding-left: 135px;
+}
+
